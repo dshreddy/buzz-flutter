@@ -1,16 +1,20 @@
-# buzz
+# Buzz - Flutter Chat App
 
-A new Flutter project.
+## Description
 
-## Getting Started
+Buzz is a fully functional chat app built using Flutter. It provides a seamless chatting experience across various platforms, including iOS, Android, web, and desktop.
 
-This project is a starting point for a Flutter application.
+### Features
 
-A few resources to get you started if this is your first Flutter project:
+- Responsive UI: Enjoy a consistent and user-friendly interface across different devices.
+- Real-time High-Speed Texting: Experience instant messaging with high-speed real-time updates.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Web App
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Buzz is also available as a web app. You can access it [here](https://buzz-bb368.web.app).
+
+
+
+## Changelog
+
+- **v1.0.0 (January 2024):** Initial release.
